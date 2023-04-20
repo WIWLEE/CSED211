@@ -28,6 +28,6 @@ function, with the goal of minimizing the number of cache misses.
 ### [LAB 10] Shell Lab
 The purpose of this assignment is to become more familiar with the concepts of process control and signalling. You’ll do this by writing a simple Unix shell program that supports job control.
 
-###[LAB 12 & 13] Malloc Lab
+### [LAB 12 & 13] Malloc Lab
 In this lab you will be writing a dynamic storage allocator for C programs, i.e., your own version of the
 malloc, free and realloc routines. You are encouraged to explore the design space creatively and implement an allocator that is correct, efficient and fast.
