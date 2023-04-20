@@ -1,7 +1,11 @@
 # 컴퓨터 SW 시스템 개론 Lab
+=======================
+
+```
 ### [Lab 1] Introduction & Bitwise Operation
 The purpose of this assignment is to become more familiar with bit-level representations of integers
 numbers. You’ll solve five problems in the presentation.
+```
 
 ### [Lab 2] Datalab2 - floating point
 The purpose of this assignment is to become more familiar with bit-level representations of floating
